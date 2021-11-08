@@ -1,2 +1,3 @@
 # Example of a `.gitattributes` file which reclassifies `.css` files as JavaScript:
-*.* linguist-language=JavaScript,HTML
+*.* linguist-language=JavaScript;
+*.* linguist-language=HTML
